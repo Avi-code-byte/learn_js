@@ -27,3 +27,9 @@ const dDict = Object.assign({},aDict,bDict)
 // console.log(aDict)
 // console.log(bDict)
 // console.log(dDict)
+
+// const {name} = formObject  //print Abhinav
+// console.log(name);
+
+// const {name:superman} = formObject //print Abhinav
+// console.log(superman);
